@@ -22,7 +22,6 @@ This project uses Python 3.10+ (tested with 3.11) and the Python libraries liste
 Install dependencies with pip:
 
 ```bash
-# from the repository root (macOS / zsh)
 python -m pip install -r requirements.txt
 ```
 
